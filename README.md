@@ -1,5 +1,5 @@
-git checkout main  # ou master, dependendo do nome
-git pull origin main  # ou master
+git checkout main 
+git pull origin main 
 
 exemplificarIC
 git add hello_world.py
